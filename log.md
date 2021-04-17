@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log Started on [April 14th, Wednesday, 2021]
-I am following [The Odin Project](https://www.theodinproject.com/) curriculum
+## I am following [The Odin Project](https://www.theodinproject.com/) curriculum
 ### Day 1: April 14th, 2021
 
 **Today's Progress**: Finished basic HTML/CSS on FCC
