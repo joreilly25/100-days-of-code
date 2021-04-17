@@ -1,30 +1,35 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log Started on [April 14th, Wednesday, 2021]
+I am following [The Odin Project](https://www.theodinproject.com/) curriculum
+### Day 1: April 14th, 2021
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Today's Progress**: Finished basic HTML/CSS on FCC
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** Getting back into codinng is a bit scary, but very fulfilling too, I'm excited to see where this takes me.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** [FreeCodeCamp Progress](https://www.freecodecamp.org/joreilly25)
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: April 15, 2021
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Completed Applied Visual Design, Applied Accessibility and Responsive Web Design Principles
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: Never realized how much goes into HTML it always seemed basic to me, but there is a lot it can do, and so many accessibility options, writing clean semantic HTML is not as easy as it may seem on the surface.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [FreeCodeCamp Progress](https://www.freecodecamp.org/joreilly25)
 
 
-### Day 1: June 27, Monday
+### Day 3: April 16, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed CSS Flexbox and CSS Grid lesson sections also completed FCC Survey optional project 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Flexbox and Grid are amazing, but I have a lot to learn with it, I plan on watching some videos linked in [The Odin Project](https://www.theodinproject.com/) to get a better grip on them, as well as of course coding more using them.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [FreeCodeCamp Progress](https://www.freecodecamp.org/joreilly25)
+                     [Survey Project](https://codepen.io/joreilly25/full/JjEBGqa)
+
+### Day 4: April 17, 2021
+
+**Today's Progress**: Completed FCC Product landing page project
+
+**Thoughts** Dabbled with Bootstrap, I have a lot to learn there. I was constantly back and forth with wanting to use vanilla CSS but then also using Bootstrap classes. Will most likely be using vanilla CSS only for my last FCC project.
+
+**Link(s) to work**: [Product Landing Page](https://codepen.io/joreilly25/full/oNBMMzx)
