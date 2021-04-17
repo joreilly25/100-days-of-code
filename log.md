@@ -30,6 +30,6 @@
 
 **Today's Progress**: Completed FCC Product landing page project
 
-**Thoughts** Dabbled with Bootstrap, I have a lot to learn there. I was constantly back and forth with wanting to use vanilla CSS but then also using Bootstrap classes. Will most likely be using vanilla CSS only for my last FCC project.
+**Thoughts** Dabbled with Bootstrap, I have a lot to learn there. I was constantly back and forth with wanting to use vanilla CSS but then also using Bootstrap classes. Will most likely be using vanilla CSS only for my last FCC project. I also updated my portfolio page to link to my 100 Days of Code!
 
 **Link(s) to work**: [Product Landing Page](https://codepen.io/joreilly25/full/oNBMMzx)
