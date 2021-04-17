@@ -23,7 +23,7 @@
 
 **Thoughts** Flexbox and Grid are amazing, but I have a lot to learn with it, I plan on watching some videos linked in [The Odin Project](https://www.theodinproject.com/) to get a better grip on them, as well as of course coding more using them.
 
-**Link(s) to work**: [FreeCodeCamp Progress](https://www.freecodecamp.org/joreilly25)
+**Link(s) to work**: [FreeCodeCamp Progress](https://www.freecodecamp.org/joreilly25)  
                      [Survey Project](https://codepen.io/joreilly25/full/JjEBGqa)
 
 ### Day 4: April 17, 2021
