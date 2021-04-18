@@ -34,3 +34,11 @@
 
 **Link(s) to work**: [Product Landing Page](https://codepen.io/joreilly25/full/oNBMMzx)  
                      [Portfolio](https://justin-oreilly.com/)
+
+### Day 5: April 18, 2021
+
+**Today's Progress**: Completed the final project on FCC to get my [Responsive Web Design Certification](https://www.freecodecamp.org/certification/joreilly25/responsive-web-design)
+
+**Thoughts** I can't believe I did it! I'm really putting the effort in this go, and I'm very excited about the progress I've already made!
+
+**Link(s) to work**: [Technical Documentation](https://codepen.io/joreilly25/full/MWJqjgg)
