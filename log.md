@@ -42,3 +42,12 @@
 **Thoughts** I can't believe I did it! I'm really putting the effort in this go, and I'm very excited about the progress I've already made!
 
 **Link(s) to work**: [Technical Documentation](https://codepen.io/joreilly25/full/MWJqjgg)
+
+### Day 6: April 19, 2021
+
+**Today's Progress**: Continued working through The Odin Project, finished the Google Landing Page project!
+
+**Thoughts** First Odin Project... project complete! Moving along, I got this!
+
+**Link(s) to work**: [Google homepage Repo](https://github.com/joreilly25/google-homepage)
+                     [Google homepage Live preview](https://joreilly25.github.io/google-homepage/)
