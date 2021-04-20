@@ -51,3 +51,11 @@
 
 **Link(s) to work**: [Google homepage Repo](https://github.com/joreilly25/google-homepage)
                      [Google homepage Live preview](https://joreilly25.github.io/google-homepage/)
+
+### Day 7: April 20, 2021
+
+**Today's Progress**: JavaScript!!!!!!!!!!!
+
+**Thoughts** Oh man, JavaScript has been an issue for me in the past, but I'm taking things slower this time to really understand it. I'm excited for what is to come.
+
+**Link(s) to work**: [JavaScript_practice repo](https://github.com/joreilly25/JavaScript_practice)
