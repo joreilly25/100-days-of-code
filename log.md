@@ -49,7 +49,7 @@
 
 **Thoughts** First Odin Project... project complete! Moving along, I got this!
 
-**Link(s) to work**: [Google homepage Repo](https://github.com/joreilly25/google-homepage)
+**Link(s) to work**: [Google homepage Repo](https://github.com/joreilly25/google-homepage)  
                      [Google homepage Live preview](https://joreilly25.github.io/google-homepage/)
 
 ### Day 7: April 20, 2021
@@ -66,5 +66,5 @@
 
 **Thoughts** Going into this I felt confident I could do it, and while I did, I did hit some walls. Flex and Grid are a lot to comprehend. I'm feeling confident in my learning overall.
 
-**Link(s) to work**: [Portfolio repo](https://github.com/joreilly25/portfolio)
+**Link(s) to work**: [Portfolio repo](https://github.com/joreilly25/portfolio)  
                      [Live Portfolio](https://justin-oreilly.com/)
