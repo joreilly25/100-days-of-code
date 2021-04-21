@@ -59,3 +59,12 @@
 **Thoughts** Oh man, JavaScript has been an issue for me in the past, but I'm taking things slower this time to really understand it. I'm excited for what is to come.
 
 **Link(s) to work**: [JavaScript_practice repo](https://github.com/joreilly25/JavaScript_practice)
+
+### Day 8: April 21, 2021
+
+**Today's Progress**: Took a little break from the courses this morning and I recoded my portfolio page. I wanted to utilize what I've learned to help cement it. Also wanted to not use any Frameworks (still used jQuery for the toTheTop button, just reused the code).
+
+**Thoughts** Going into this I felt confident I could do it, and while I did, I did hit some walls. Flex and Grid are a lot to comprehend. I'm feeling confident in my learning overall.
+
+**Link(s) to work**: [Portfolio repo](https://github.com/joreilly25/portfolio)
+                     [Live Portfolio](https://justin-oreilly.com/)
