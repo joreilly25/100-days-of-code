@@ -6,8 +6,8 @@
 
 **Thoughts:** Getting back into codinng is a bit scary, but very fulfilling too, I'm excited to see where this takes me.
 
-**Link to work**:
-  [FreeCodeCamp Progress](https://www.freecodecamp.org/joreilly25)
+**Link to work**:\
+[FreeCodeCamp Progress](https://www.freecodecamp.org/joreilly25)
 
 ### Day 2: April 15, 2021
 
