@@ -6,7 +6,8 @@
 
 **Thoughts:** Getting back into codinng is a bit scary, but very fulfilling too, I'm excited to see where this takes me.
 
-**Link to work:**  [FreeCodeCamp Progress](https://www.freecodecamp.org/joreilly25)
+**Link to work**:
+[FreeCodeCamp Progress](https://www.freecodecamp.org/joreilly25)
 
 ### Day 2: April 15, 2021
 
@@ -14,7 +15,8 @@
 
 **Thoughts**: Never realized how much goes into HTML it always seemed basic to me, but there is a lot it can do, and so many accessibility options, writing clean semantic HTML is not as easy as it may seem on the surface.
 
-**Link(s) to work**:  [FreeCodeCamp Progress](https://www.freecodecamp.org/joreilly25)
+**Link(s) to work**:
+[FreeCodeCamp Progress](https://www.freecodecamp.org/joreilly25)
 
 
 ### Day 3: April 16, 2021
