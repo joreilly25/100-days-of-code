@@ -84,4 +84,5 @@
 **Thoughts** Oh boy, JavaScript is something, there is a ton to it and it is quite intimidating, I'm trying to take it in decent size bites I feel this gives me time to wrap my head around concepts before moving further.
 
 **Link(s) to work**:\
-[replit link](https://replit.com/@joreilly25)
+[replit link](https://replit.com/@joreilly25)\
+[JavaScript practice](https://github.com/joreilly25/JavaScript_practice)
