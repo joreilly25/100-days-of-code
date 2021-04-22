@@ -76,3 +76,12 @@
 **Link(s) to work**:\
 [Portfolio repo](https://github.com/joreilly25/portfolio)\
 [Live Portfolio](https://justin-oreilly.com/)
+
+### Day 9: April 22, 2021 - EARTH DAY!
+
+**Today's Progress**: Back to The Odin Project! JavaScript fundamentals Part 2!
+
+**Thoughts** Oh boy, JavaScript is something, there is a ton to it and it is quite intimidating, I'm trying to take it in decent size bites I feel this gives me time to wrap my head around concepts before moving further.
+
+**Link(s) to work**:\
+[replit link](https://replit.com/@joreilly25)
