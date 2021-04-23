@@ -86,3 +86,12 @@
 **Link(s) to work**:\
 [replit link](https://replit.com/@joreilly25)\
 [JavaScript practice](https://github.com/joreilly25/JavaScript_practice)
+
+### Day 10: April 23, 2021
+
+**Today's Progress**: JavaScript fundamentals Part 3!
+
+**Thoughts** Functions are really awesome. I was telling my friend (amazing programmer btw) how I can see why people write their own functions and why frameworks exist. Being able to have a line of a code run a lot of things and having a place where you can go in and edit/fix if necessary seems very useful.
+
+**Link(s) to work**:\
+[JavaScript practice](https://github.com/joreilly25/JavaScript_practice)
