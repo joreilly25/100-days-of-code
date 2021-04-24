@@ -95,3 +95,12 @@
 
 **Link(s) to work**:\
 [JavaScript practice](https://github.com/joreilly25/JavaScript_practice)
+
+### Day 11: April 24, 2021
+
+**Today's Progress**: Problem soliving with FizzBuzz!
+
+**Thoughts** I really like how they break down problem solving. It has given me things to think about and I'm gonna make it a habbit of outlining the greater problem and breaking it down into smaller problems to first solve. While FizzBuzz wasn't a large problem to solve even still breaking it down it really stands out how helpful that is.
+
+**Link(s) to work**:\
+[JavaScript practice](https://github.com/joreilly25/JavaScript_practice)
