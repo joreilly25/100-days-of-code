@@ -104,3 +104,12 @@
 
 **Link(s) to work**:\
 [JavaScript practice](https://github.com/joreilly25/JavaScript_practice)
+
+### Day 12: April 25, 2021
+
+**Today's Progress**: Project: Rock, Paper, Scissors
+
+**Thoughts** I had a good feeling going into this project, that I was prepared to tackle it. I outlined what needed to be done, and did ok at solving the problem at hand, however I wanted to go further with it, and found myself at a loss. I believe the issue is because I haven't fully learned how to use loops and more so how they interact with other loops, and if statements and such. Looking forward to learning more so that I can come back and add what I want to this project.
+
+**Link(s) to work**:\
+[Rock Paper Scissors repo](https://github.com/joreilly25/rock-paper-scissors)
