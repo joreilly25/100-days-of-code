@@ -122,3 +122,12 @@
 
 **Link(s) to work**:\
 [Javascript Exercises](https://github.com/joreilly25/javascript-exercises)
+
+### Day 14: April 27, 2021
+
+**Today's Progress**: More practice with loops
+
+**Thoughts** Taking it slower today, got another exercise done *reverse string* Wife is sick so taking care of her, and running through little exercises on my phone will also be reading through some documentation later on loops.
+
+**Link(s) to work**:\
+[Javascript Exercises | reverseString](https://github.com/joreilly25/javascript-exercises/tree/master/reverseString)
