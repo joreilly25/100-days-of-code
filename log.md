@@ -113,3 +113,12 @@
 
 **Link(s) to work**:\
 [Rock Paper Scissors repo](https://github.com/joreilly25/rock-paper-scissors)
+
+### Day 13: April 26, 2021
+
+**Today's Progress**: Getting loopy with loops
+
+**Thoughts** Loops are really kicking my butt, they seem so simple on the surface, but they are certainly in depth. I was a bit upset yesterday for not being able to properly implement a loop, but now that I'm actually learning about loops, I can totally udnerstand why yesterday was such a nightmare. I plan on taking this section quite slowly and going through some exercises to get a better handle on loops.
+
+**Link(s) to work**:\
+[Javascript Exercises](https://github.com/joreilly25/javascript-exercises)
