@@ -127,7 +127,17 @@
 
 **Today's Progress**: More practice with loops
 
-**Thoughts** Taking it slower today, got another exercise done *reverse string*. Wife is sick so taking care of her, and running through little exercises on my phone will also be reading through some documentation later on loops.
+**Thoughts** Taking it slower today, got another exercise done ***reverse string***. Wife is sick so taking care of her, and running through little exercises on my phone will also be reading through some documentation later on loops.
 
 **Link(s) to work**:\
 [Javascript Exercises | reverseString](https://github.com/joreilly25/javascript-exercises/tree/master/reverseString)
+
+### Day 15: April 28, 2021
+
+**Today's Progress**: Even more practice with loops
+
+**Thoughts** Two more exercises down! ***remove from array*** and ***sumAll***. These projects seem simple at first, but when you start going down into the more difficult tests... They can have you stumped for a while! Glad that I'm making progress through these it can be frustrating when you can't quite figure it out, but once you do, its feels pretty amazing.
+
+**Link(s) to work**:\
+[Javascript Exercises | removeFromArray](https://github.com/joreilly25/javascript-exercises/tree/master/removeFromArray)\
+[Javascript Exercises | sumAll](https://github.com/joreilly25/javascript-exercises/tree/master/sumAll)
