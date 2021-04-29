@@ -141,3 +141,13 @@
 **Link(s) to work**:\
 [Javascript Exercises | removeFromArray](https://github.com/joreilly25/javascript-exercises/tree/master/removeFromArray)\
 [Javascript Exercises | sumAll](https://github.com/joreilly25/javascript-exercises/tree/master/sumAll)
+
+### Day 16: April 29, 2021
+
+**Today's Progress**: Last 2 exercises of **Fundamentals Part 4**
+
+**Thoughts** Final 2 exercises for Fundamentals Part 4 finished! ***leapYears*** and ***tempConversion***. I felt these exercises to be a bit easier than the others, mainly because loops weren't involved. However they still taught me valuable lessons on what to look out for when writing if statement conditionals. I really liked the TDD (Test Driven Development) approach one day I need to learn to write tests for codes.
+
+**Link(s) to work**:\
+[Javascript Exercises | leapYears](https://github.com/joreilly25/javascript-exercises/tree/master/leapYears)\
+[Javascript Exercises | tempConversion](https://github.com/joreilly25/javascript-exercises/tree/master/tempConversion)
