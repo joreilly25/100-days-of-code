@@ -151,3 +151,12 @@
 **Link(s) to work**:\
 [Javascript Exercises | leapYears](https://github.com/joreilly25/javascript-exercises/tree/master/leapYears)\
 [Javascript Exercises | tempConversion](https://github.com/joreilly25/javascript-exercises/tree/master/tempConversion)
+
+### Day 17: April 30, 2021
+
+**Today's Progress**: Started working with DOM manipulation!
+
+**Thoughts** Started to work with using JavaScript to manipulate the DOM! I've been looking forward to working with the DOM. First exercises done, cant wait to get more into it. Tomorrow I'm working with events!
+
+**Link(s) to work**:\
+[DOM manipulation | DOM-exercises](https://github.com/joreilly25/DOM-practice)
