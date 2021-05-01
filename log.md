@@ -160,3 +160,12 @@
 
 **Link(s) to work**:\
 [DOM manipulation | DOM-exercises](https://github.com/joreilly25/DOM-practice)
+
+### Day 18: May 1, 2021
+
+**Today's Progress**: Events!
+
+**Thoughts** Wow events are complicated, but that's where all the magic happens! I'll be recoding the **[Rock Paper Scissors](https://github.com/joreilly25/rock-paper-scissors)** game from before using events and DOM manipulation to give it a GUI. Should be challenging but I'm sure I will learn a ton from it! Gonna take some time and read/watch more about events and DOM manipulation though for now.
+
+**Link(s) to work**:\
+[DOM manipulation | DOM-exercises](https://github.com/joreilly25/DOM-practice)
