@@ -169,3 +169,12 @@
 
 **Link(s) to work**:\
 [DOM manipulation | DOM-exercises](https://github.com/joreilly25/DOM-practice)
+
+### Day 19: May 4, 2021
+
+**Today's Progress**: Reworking **[Rock Paper Scissors](https://github.com/joreilly25/rock-paper-scissors)** to add click events.
+
+**Thoughts** I managed to get click events working (still just console logs) for the game. Next up will be keeping track of score, and updating the DOM with this information.
+
+**Link(s) to work**:\
+[Rock Paper Scissors](https://github.com/joreilly25/rock-paper-scissors)
