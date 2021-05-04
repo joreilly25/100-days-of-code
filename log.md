@@ -170,7 +170,7 @@
 **Link(s) to work**:\
 [DOM manipulation | DOM-exercises](https://github.com/joreilly25/DOM-practice)
 
-### Day 19: May 4, 2021
+### Day 19: May 4, 2021 - May the fourth be with you!
 
 **Today's Progress**: Reworking **[Rock Paper Scissors](https://github.com/joreilly25/rock-paper-scissors)** to add click events.
 
