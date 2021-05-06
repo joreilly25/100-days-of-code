@@ -178,3 +178,12 @@
 
 **Link(s) to work**:\
 [Rock Paper Scissors](https://github.com/joreilly25/rock-paper-scissors)
+
+### Day 20: May 6, 2021 - May the fourth be with you!
+
+**Today's Progress**: More work on **[Rock Paper Scissors](https://github.com/joreilly25/rock-paper-scissors)** added score to the DOM, as well as fully playing rounds and displaying them on the DOM.
+
+**Thoughts** Very happy with my progress thus far. I've had to slow down a bit becuase my wrists have been acting up, but I continue to read and learn about code on wrist rest days and I'm able to get right back into things when I get on.
+
+**Link(s) to work**:\
+[Rock Paper Scissors](https://github.com/joreilly25/rock-paper-scissors)
