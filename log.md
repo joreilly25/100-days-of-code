@@ -196,3 +196,13 @@
 
 **Link(s) to work**:\
 [Rock Paper Scissors](https://github.com/joreilly25/rock-paper-scissors)
+
+### Day 22: May 17, 2021
+
+**Today's Progress**: Currently working on the Google IT Automation course on coursera I felt I needed to switch gears from TOP based on how I seem to going professionally, given my history in the IT Support field I think this is a better fit to wrap my head around coding.
+
+**Thoughts** The course hasn't gotten too much into actual coding just yet, so instead I started rewritng my JavaScript Rock Paper Scissors program in Python!
+
+**Link(s) to work**:\
+[Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)\
+[Rock Paper Scissors Pyton edition!](https://github.com/joreilly25/rock-paper-scissors-python)
