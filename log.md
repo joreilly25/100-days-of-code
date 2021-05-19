@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log Started on [April 14th, Wednesday, 2021]
+
 ## Started with [The Odin Project](https://www.theodinproject.com/) curriculum but am now following [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
+
 ### Day 1: April 14th, 2021
 
 **Today's Progress**: Finished basic HTML/CSS on FCC
@@ -18,10 +20,9 @@
 **Link(s) to work**:\
 [FreeCodeCamp Progress](https://www.freecodecamp.org/joreilly25)
 
-
 ### Day 3: April 16, 2021
 
-**Today's Progress**: Completed CSS Flexbox and CSS Grid lesson sections also completed FCC Survey optional project 
+**Today's Progress**: Completed CSS Flexbox and CSS Grid lesson sections also completed FCC Survey optional project
 
 **Thoughts** Flexbox and Grid are amazing, but I have a lot to learn with it, I plan on watching some videos linked in [The Odin Project](https://www.theodinproject.com/) to get a better grip on them, as well as of course coding more using them.
 
@@ -127,7 +128,7 @@
 
 **Today's Progress**: More practice with loops
 
-**Thoughts** Taking it slower today, got another exercise done ***reverse string***. Wife is sick so taking care of her, and running through little exercises on my phone will also be reading through some documentation later on loops.
+**Thoughts** Taking it slower today, got another exercise done **_reverse string_**. Wife is sick so taking care of her, and running through little exercises on my phone will also be reading through some documentation later on loops.
 
 **Link(s) to work**:\
 [Javascript Exercises | reverseString](https://github.com/joreilly25/javascript-exercises/tree/master/reverseString)
@@ -136,7 +137,7 @@
 
 **Today's Progress**: Even more practice with loops
 
-**Thoughts** Two more exercises down! ***remove from array*** and ***sumAll***. These projects seem simple at first, but when you start going down into the more difficult tests... They can have you stumped for a while! Glad that I'm making progress through these it can be frustrating when you can't quite figure it out, but once you do, its feels pretty amazing.
+**Thoughts** Two more exercises down! **_remove from array_** and **_sumAll_**. These projects seem simple at first, but when you start going down into the more difficult tests... They can have you stumped for a while! Glad that I'm making progress through these it can be frustrating when you can't quite figure it out, but once you do, its feels pretty amazing.
 
 **Link(s) to work**:\
 [Javascript Exercises | removeFromArray](https://github.com/joreilly25/javascript-exercises/tree/master/removeFromArray)\
@@ -146,7 +147,7 @@
 
 **Today's Progress**: Last 2 exercises of **Fundamentals Part 4**
 
-**Thoughts** Final 2 exercises for Fundamentals Part 4 finished! ***leapYears*** and ***tempConversion***. I felt these exercises to be a bit easier than the others, mainly because loops weren't involved. However they still taught me valuable lessons on what to look out for when writing if statement conditionals. I really liked the TDD (Test Driven Development) approach one day I need to learn to write tests for codes.
+**Thoughts** Final 2 exercises for Fundamentals Part 4 finished! **_leapYears_** and **_tempConversion_**. I felt these exercises to be a bit easier than the others, mainly because loops weren't involved. However they still taught me valuable lessons on what to look out for when writing if statement conditionals. I really liked the TDD (Test Driven Development) approach one day I need to learn to write tests for codes.
 
 **Link(s) to work**:\
 [Javascript Exercises | leapYears](https://github.com/joreilly25/javascript-exercises/tree/master/leapYears)\
@@ -202,6 +203,16 @@
 **Today's Progress**: Currently working on the Google IT Automation course on coursera I felt I needed to switch gears from TOP based on how I seem to going professionally, given my history in the IT Support field I think this is a better fit to wrap my head around coding.
 
 **Thoughts** The course hasn't gotten too much into actual coding just yet, so instead I started rewritng my JavaScript Rock Paper Scissors program in Python!
+
+**Link(s) to work**:\
+[Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)\
+[Rock Paper Scissors Pyton edition!](https://github.com/joreilly25/rock-paper-scissors-python)
+
+### Day 23: May 19, 2021
+
+**Today's Progress**: Pushing through the Google course, and finished remaking my Rock Paper Scissors game in Python!
+
+**Thoughts** Really like how I was able to take what I learned and apply it to Python, I know swapping between coding languages this early isn't ideal, but I'm glad I am right now.
 
 **Link(s) to work**:\
 [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)\
