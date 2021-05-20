@@ -217,3 +217,12 @@
 **Link(s) to work**:\
 [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)\
 [Rock Paper Scissors Pyton edition!](https://github.com/joreilly25/rock-paper-scissors-python)
+
+### Day 24: May 20, 2021
+
+**Today's Progress**: Another Module complete!
+
+**Thoughts** I've completed the Week 2 module, the course moves fast, granted I'm moving faster than the course was technically intended, the course work has its jumps in difficulty for sure.
+
+**Link(s) to work**:\
+[Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)\
