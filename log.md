@@ -226,3 +226,12 @@
 
 **Link(s) to work**:\
 [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)\
+
+### Day 25: May 21, 2021
+
+**Today's Progress**: Sadly today's progress was a bit lacking. I spent most of it setting up Wordpress, just to see if I could do it from scracth (installing the correct versions of PHP, MariaDB all via SSH) I did finally get it going!
+
+**Thoughts** Felt pretty awesome to get it up and running all from command line. Mainly did it beause a lot of entry jobs in my area are seeking Wordpress knowledge or some sort of CMS.
+
+**Link(s) to work**:\
+[Wordpress site (nothing to really see, gonna be using it for testing/learning)](https://justin-oreilly.com/wp/)\
