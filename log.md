@@ -235,3 +235,11 @@
 
 **Link(s) to work**:\
 [Wordpress site (nothing to really see, gonna be using it for testing/learning)](https://justin-oreilly.com/wp/)\
+
+### Day 26: May 22, 2021
+
+**Today's Progress**: Been learning about APIs
+
+**Thoughts** I've been getting a bit bored without building something, so I've started branching off the path and looking into APIs I wanna see if I can do something with it, maybe look into a front end framework as well.
+
+**Link(s) to work**:\
