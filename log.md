@@ -243,3 +243,12 @@
 **Thoughts** I've been getting a bit bored without building something, so I've started branching off the path and looking into APIs I wanna see if I can do something with it, maybe look into a front end framework as well.
 
 **Link(s) to work**:\
+
+### Day 27: May 26, 2021
+
+**Today's Progress**: Moved focus to developing HTML emails
+
+**Thoughts** Developing HTML emails is a great fit for my current skill set, I believe landing a position in this field, would be amazing to continue to develop my skills as a developer while also filling a company's need for someone with my skills.
+
+**Link(s) to work**:\
+[Final Fantasy XIV: Endwalker email](https://github.com/joreilly25/emailHTML_endwalker)
