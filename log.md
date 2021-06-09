@@ -252,3 +252,9 @@
 
 **Link(s) to work**:\
 [Final Fantasy XIV: Endwalker email](https://github.com/joreilly25/emailHTML_endwalker)
+
+### June 9, 2021
+
+**Today's Progress**: Been handling some personal troubles that came up, as well as a ton of interviews!
+
+**Thoughts** My grandma fell ill recently but she's doing better now, and I've been bombarded with interviews! Which is wonderful since I've been looking for work for some time now. Very excited with what the future holds!
