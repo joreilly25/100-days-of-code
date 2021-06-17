@@ -258,3 +258,9 @@
 **Today's Progress**: Been handling some personal troubles that came up, as well as a ton of interviews!
 
 **Thoughts** My grandma fell ill recently but she's doing better now, and I've been bombarded with interviews! Which is wonderful since I've been looking for work for some time now. Very excited with what the future holds!
+
+### June 17, 2021
+
+**Today's Progress**: Currently on hold, I've dived head first into the job search. Unfortunately I'm going to need to find work if I want to continue paying rent.
+
+**Thoughts** I find some time between the stress of the job hunt to review past code, and talk about code with others, but currently a bit too worried about not finding work to really push forward with coding. Mostly looking for work with my tech support skills and with what I've learned as far as HTML/CSS/JS goes if anyone has any connections.
