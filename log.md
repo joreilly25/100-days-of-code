@@ -264,3 +264,9 @@
 **Today's Progress**: Currently on hold, I've dived head first into the job search. Unfortunately I'm going to need to find work if I want to continue paying rent.
 
 **Thoughts** I find some time between the stress of the job hunt to review past code, and talk about code with others, but currently a bit too worried about not finding work to really push forward with coding. Mostly looking for work with my tech support skills and with what I've learned as far as HTML/CSS/JS goes if anyone has any connections.
+
+### June 23, 2021
+
+**Today's Progress**: Went over some SQL things, unfortunately still haven't landed a job, but I'm optimistic!
+
+**Thoughts** A lot of positions I've been lucky enough to interview for have questioned SQL knowledge, so I've been taking some time reviewing SQL. I've used it in the past, so its coming back to me rather well. Gonna be looking into JSON structure after this, I've always wanted to fully understand how that works.
