@@ -270,3 +270,9 @@
 **Today's Progress**: Went over some SQL things, unfortunately still haven't landed a job, but I'm optimistic!
 
 **Thoughts** A lot of positions I've been lucky enough to interview for have questioned SQL knowledge, so I've been taking some time reviewing SQL. I've used it in the past, so its coming back to me rather well. Gonna be looking into JSON structure after this, I've always wanted to fully understand how that works.
+
+### June 25, 2021
+
+**Today's Progress**: Was researching some Django, potential job makes use of Django, so wanted to look into it.
+
+**Thoughts** Very exciting opportunity that utilizes Django is in front of me, so getting to know it a bit better.
